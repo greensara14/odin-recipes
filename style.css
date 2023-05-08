@@ -1,0 +1,21 @@
+.heading{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+h2,
+h3
+{
+    color: blue;
+}
+
+p{
+    color: rgb(52,97,235)
+}
+
+ul,
+ol
+{
+    color: rgb(52,97,235)
+}
